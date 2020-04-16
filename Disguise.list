@@ -45,6 +45,10 @@ DOMAIN-KEYWORD,zhihu
 //抖音
 USER-AGENT,Aweme*
 DOMAIN-KEYWORD,aweme
+DOMAIN-KEYWORD,pingma
+DOMAIN-KEYWORD,toutiao
+DOMAIN-KEYWORD,ixigua
+DOMAIN-KEYWORD,douyin
 //地板
 DOMAIN-KEYWORD,hi-pda
 //Content Delivery Network
