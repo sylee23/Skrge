@@ -51,6 +51,10 @@ DOMAIN-KEYWORD,toutiao
 DOMAIN-KEYWORD,ixigua
 DOMAIN-KEYWORD,douyin
 DOMAIN-KEYWORD,byteimg
+DOMAIN-KEYWORD,bdurl
+DOMAIN-KEYWORD,bytedance
+DOMAIN-KEYWORD,amemv
+DOMAIN-KEYWORD,pstatp
 //地板
 DOMAIN-KEYWORD,hi-pda
 //Content Delivery Network
