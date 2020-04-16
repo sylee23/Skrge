@@ -42,6 +42,7 @@ USER-AGENT,%E9%92%89%E9%92%89*
 //知乎
 USER-AGENT,osee2unifiedRelease*
 DOMAIN-KEYWORD,zhihu
+DOMAIN-KEYWORD,zhimg
 //抖音
 USER-AGENT,Aweme*
 DOMAIN-KEYWORD,aweme
@@ -49,6 +50,7 @@ DOMAIN-KEYWORD,pingma
 DOMAIN-KEYWORD,toutiao
 DOMAIN-KEYWORD,ixigua
 DOMAIN-KEYWORD,douyin
+DOMAIN-KEYWORD,byteimg
 //地板
 DOMAIN-KEYWORD,hi-pda
 //Content Delivery Network
